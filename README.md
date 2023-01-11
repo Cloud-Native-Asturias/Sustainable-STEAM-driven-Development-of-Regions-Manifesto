@@ -1,6 +1,6 @@
 #  Sustainable STEAM-driven Development of Regions
 
-We are uncovering better ways of developing peoples of the world through STEM by doing it and helping others do it.
+We are uncovering better ways of developing regions through STEM by doing it and helping others do it.
 
 Through this work we have come to value:
 
