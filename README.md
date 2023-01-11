@@ -28,3 +28,12 @@ We, as implementers, follow these principles:
 1. Hope for the best, be ready for the worst, and enjoy the change.
 1. Continuous improvement should be advocated at any time based on feedback.
 1. Always plan strategy thinking on the future of the region and its people, not only the present day.
+
+## Signatories of The Manifesto for Sustainable STEAM-driven Development of Regions
+
+|  Logo | Participant  |
+|---|---|
+|  ![image](https://user-images.githubusercontent.com/1598632/211899897-9076f7b9-2802-4da4-b34b-97a57556792d.png) | [Cloud Native Asturias](https://cloudnativeasturias.com/) |
+|   |   |
+|   |   |
+
