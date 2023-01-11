@@ -18,13 +18,13 @@ That is, while there is value in the items on the right, we value the items on t
 We, as implementers, follow these principles:
 
 - The highest priority is to make the represented region visible on the international STEM landscapes.
-- All initiatives are driven by transparency, honesty, and respect people.
-- Promote the sustainable development, within the region we represent, through STEM.
-- Define a clear range of alignment options which must be followed by the participants.
-- The promoted initiatives are meant to have the highest impact possible.
-- Exchange among people and cultures must be encouraged.
-- Work with a committed set of people.
-- Celebrate the wins, even the small ones, and hold on the bad moments.
-- Hope for the best, be ready for the worst, and enjoy the change.
-- Continuous improvement should be advocated at any time based on feedback.
-- Always plan strategy thinking on the future of the region and its people, not only the present day.
+# All initiatives are driven by transparency, honesty, and respect people.
+# Promote the sustainable development, within the region we represent, through STEM.
+# Define a clear range of alignment options which must be followed by the participants.
+# The promoted initiatives are meant to have the highest impact possible.
+# Exchange among people and cultures must be encouraged.
+# Work with a committed set of people.
+# Celebrate the wins, even the small ones, and hold on the bad moments.
+# Hope for the best, be ready for the worst, and enjoy the change.
+# Continuous improvement should be advocated at any time based on feedback.
+# Always plan strategy thinking on the future of the region and its people, not only the present day.
