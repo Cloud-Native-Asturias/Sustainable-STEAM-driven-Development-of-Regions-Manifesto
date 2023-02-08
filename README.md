@@ -30,9 +30,8 @@ We, as implementers, follow these principles:
 
 ## Signatories of The Manifesto for Sustainable STEAM-driven Development of Regions
 
-|  Logo | Participant  |
-|---|---|
-|  ![image](https://user-images.githubusercontent.com/1598632/211899897-9076f7b9-2802-4da4-b34b-97a57556792d.png) | [Cloud Native Asturias](https://cloudnativeasturias.com/) |
-|   |   |
-|   |   |
+| | |
+|:---:|:---:|
+| <img src="https://user-images.githubusercontent.com/1598632/211899897-9076f7b9-2802-4da4-b34b-97a57556792d.png" width="100"><br> <a href="https://cloudnativeasturias.com">Cloud Native Asturias</a>| next |
+
 
