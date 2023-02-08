@@ -18,7 +18,7 @@ That is, while there is value in the items on the right, we value the items on t
 We, as implementers, follow these principles:
 
 1. Boost the region's visibility and competitiveness on international STEAM landscapes.
-2. Promote socio-emotional skills and 4 c's of learning 21st century essential for the development of a region.
+2. Promote socio-emotional skills and Critical Thinking, Communication, Collaboration, and Creativity of learning 21st century essential for the development of a region.
 3. Foster interdisciplinarity, promoting interaction with areas such as the arts, business, philosophy or the humanities, and regions.
 4. Promote a social and educational context in which children, girls in particular, are encouraged, capable and
 recognized so that they can choose their future without conditioning.
