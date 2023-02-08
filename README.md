@@ -1,6 +1,6 @@
 #  Sustainable STEAM-driven Development of Regions
 
-We are uncovering better ways of developing regions through STEM by doing it and helping others do it. We promote the teaching of STEAM as key drivers of sustainable development and social well-being of a region.
+We are uncovering better ways of developing regions through STEM by doing it and helping others do it. We promote STEAM as key drivers of sustainable development and social well-being of a region.
 
 Through this work we have come to value:
 
