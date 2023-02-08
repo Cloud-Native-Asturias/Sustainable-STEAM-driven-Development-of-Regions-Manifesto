@@ -19,7 +19,7 @@ We, as implementers, follow these principles:
 
 1. Boost the region's visibility and competitiveness on international STEAM landscapes.
 2. Promote socio-emotional skills and Critical Thinking, Communication, Collaboration, and Creativity of learning 21st century essential for the development of a region.
-3. Foster interdisciplinarity, promoting interaction with areas such as the arts, business, philosophy or the humanities, and regions.
+3. Foster interdisciplinarity within the regions by promoting interaction with areas such as the arts, business, philosophy, or the humanities.
 4. Promote a social and educational context in which children, girls in particular, are encouraged, capable and
 recognized so that they can choose their future without conditioning.
 5. Define a clear range of alignment options which must be followed by the participants.
