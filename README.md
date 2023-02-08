@@ -1,10 +1,11 @@
 #  Sustainable STEAM-driven Development of Regions
 
-We are uncovering better ways of developing regions through STEM by doing it and helping others do it. We promote STEAM as key drivers of sustainable development and social well-being of a region.
+We are uncovering better ways of developing regions through STEAM by doing it and helping others do it.
 
 Through this work we have come to value:
 
 <p style="text-align: center;">
+
 - Alliances and collaborations over knowledge silos<br>
 - Attracting sustainable STEM talent over wasting it outside the region<br>
 - Embrace innovation over conservative strategies<br>
@@ -17,6 +18,7 @@ That is, while there is value in the items on the right, we value the items on t
 
 We, as implementers, follow these principles:
 
+
 1. Boost the region's visibility and competitiveness on international STEAM landscapes.
 2. Promote socio-emotional skills and Critical Thinking, Communication, Collaboration, and Creativity of learning 21st century essential for the development of a region.
 3. Foster interdisciplinarity within the regions by promoting interaction with areas such as the arts, business, philosophy, or the humanities.
@@ -24,6 +26,7 @@ We, as implementers, follow these principles:
 5. Reduce the gap in technology, for girls and women from the regions, through a strategy based on STEAM.
 5. Define a clear range of alignment options which must be followed by the participants.
 6. Embrace the UN 2030 Agenda.
+
 
 ## Signatories of The Manifesto for Sustainable STEAM-driven Development of Regions
 
