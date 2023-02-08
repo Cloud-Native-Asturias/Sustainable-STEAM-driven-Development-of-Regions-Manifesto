@@ -20,8 +20,8 @@ We, as implementers, follow these principles:
 1. Boost the region's visibility and competitiveness on international STEAM landscapes.
 2. Promote socio-emotional skills and Critical Thinking, Communication, Collaboration, and Creativity of learning 21st century essential for the development of a region.
 3. Foster interdisciplinarity within the regions by promoting interaction with areas such as the arts, business, philosophy, or the humanities.
-4. Promote a social and educational context in which children, girls in particular, are encouraged, capable and
-recognized so that they can choose their future without conditioning.
+4. Promote a social and educational context in which children, teenagers, and senior people, are encouraged, capable, and recognized so that they can onboard on the STEAM world without conditioning.
+5. Reduce the gap in technology, for girls and women from the regions, through a strategy based on STEAM.
 5. Define a clear range of alignment options which must be followed by the participants.
 6. Embrace the UN 2030 Agenda.
 
