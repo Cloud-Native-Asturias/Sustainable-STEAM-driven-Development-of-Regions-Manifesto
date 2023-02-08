@@ -7,7 +7,7 @@ Through this work we have come to value:
 <p style="text-align: center;">
 
 - Alliances and collaborations over knowledge silos<br>
-- Attracting sustainable STEAM talent over wasting it outside the region<br>
+- Attracting sustainable STEAM talent over losing it outside the region<br>
 - Embrace innovation over conservative strategies<br>
 - Promote sustainable STEAM development over speculative bubbles<br>
 - People and relationships over goals and objectives<br>
