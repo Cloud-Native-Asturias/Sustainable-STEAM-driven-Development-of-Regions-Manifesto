@@ -32,6 +32,6 @@ We, as implementers, follow these principles:
 
 | | |
 |:---:|:---:|
-| <img src="https://user-images.githubusercontent.com/1598632/211899897-9076f7b9-2802-4da4-b34b-97a57556792d.png" width="100"><br> <a href="https://cloudnativeasturias.com">Cloud Native Asturias</a>| next |
+| <img src="https://user-images.githubusercontent.com/1598632/211899897-9076f7b9-2802-4da4-b34b-97a57556792d.png" width="100"><br> <a href="https://cloudnativeasturias.com">Cloud Native Asturias</a>|<img src="https://yt3.googleusercontent.com/ytc/AL5GRJWSHXUf1eKvFw6_qurkhhScfMrgdV216zbGgT0j=s176-c-k-c0x00ffffff-no-rj" width="100"><br> <a href="https://techclubasturias.com/">Tech Club Asturias</a>|| next |
 
 
